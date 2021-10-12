@@ -1,0 +1,20 @@
+#Greetings training data 
+categories:
+- greetings
+conversations:
+- - Hello
+  - Hi
+- - Hey
+  - Hi
+- - Hi
+  - Hi
+- - Henri
+  - Hi
+- - Hey Henri
+  - Hi
+- - Hi Henri
+  - Hi
+- - Hello Henri
+  - Hi
+
+
